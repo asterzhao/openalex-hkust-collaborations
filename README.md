@@ -10,8 +10,8 @@ https://public.tableau.com/app/profile/aster7724/viz/HKUSTcollaborations/Collabo
 
 
 ## Some outputs from the notebook
-![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig1.svg)
+![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig1.svg) 
 ---
-![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig2.svg)
+![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig2.svg) 
 ---
-![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig3.svg)
+![](https://github.com/asterzhao/openalex-hkust-collaborations/blob/master/images/fig3.svg) 
